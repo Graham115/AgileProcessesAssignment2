@@ -7,5 +7,6 @@ public class Main {
 		System.out.println(mathFunctions.addIntegers(1, 2, 3, 4, 5, 6, 7, 8, 9));
 		System.out.println("Agile Processes Project ");
 		System.out.println("2018");
+		System.out.println("Completed Math Code");
 	}
 }
